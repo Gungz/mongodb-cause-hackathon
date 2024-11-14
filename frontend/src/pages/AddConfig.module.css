@@ -1,0 +1,15 @@
+.configPanel > [class~="p-panel-header"] {
+    background-color: #f9843c;
+    color: #ffffff;
+    padding-left: 1rem;
+}
+
+.container {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: auto;
+}
+
+.smallText {
+    font-size: var(--small-font-size);
+}

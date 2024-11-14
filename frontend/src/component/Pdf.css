@@ -1,0 +1,16 @@
+.main {
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    overflow: scroll;
+    border: 1px solid black;
+    text-align: center;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.main img {
+    margin: auto;
+    display: block;
+    width: 100%;
+}
